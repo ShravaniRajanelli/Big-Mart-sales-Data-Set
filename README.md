@@ -41,7 +41,7 @@ The goal of this project is to predict the sales of products in the Big Mart sto
 * Evaluated the model on the testing dataset.
 * Assessed performance using metrics such as Mean Squared Error (MSE) and R-squared.
 ## Results
-The final model achieved a Mean Squared Error of X on the testing dataset. Detailed results and insights can be found in the Jupyter notebook here.
+The final model achieved a Mean Squared Error of 1005.5370873838602 on the testing dataset. Detailed results and insights can be found in the Jupyter notebook here.
 
 Dependencies
 Python 
