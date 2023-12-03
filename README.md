@@ -48,7 +48,7 @@ Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter.
 
 ## Source Link:
-[Clik Here](https://www.kaggle.com/datasets/akashdeepkuila/big-mart-sales)
+[Link](https://www.kaggle.com/datasets/akashdeepkuila/big-mart-sales)
 
 Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at shravanirajanelli@gmail.com.
 
