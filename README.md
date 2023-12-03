@@ -43,9 +43,12 @@ The goal of this project is to predict the sales of products in the Big Mart sto
 ## Results
 The final model achieved a Mean Squared Error of 1005.5370873838602 on the testing dataset. Detailed results and insights can be found in the Jupyter notebook here.
 
-Dependencies
+## Dependencies
 Python 
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter.
+
+## Source Link:
+[Clik Here](https://www.kaggle.com/datasets/akashdeepkuila/big-mart-sales)
 
 Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at shravanirajanelli@gmail.com.
 
