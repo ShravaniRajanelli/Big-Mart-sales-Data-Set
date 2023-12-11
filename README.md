@@ -1,6 +1,12 @@
 # Big Mart Sales Prediction
 This project involves the analysis and prediction of sales using the Big Mart Sales dataset. The dataset contains information about various products and their sales across different outlets. The main objective is to build a predictive model that can estimate the sales of a product based on various features.
 
+## Source Link:
+[Link](https://www.kaggle.com/datasets/akashdeepkuila/big-mart-sales)
+
+## Problem Statement
+The goal of this project is to predict the sales of products in the Big Mart stores. It is a regression problem, and we will use machine learning models to predict the sales based on the provided features.
+
 ## Dataset Overview
 The Big Mart Sales dataset consists of the following columns:
 
@@ -16,9 +22,6 @@ The Big Mart Sales dataset consists of the following columns:
 * Outlet_Location_Type: Categorical variable indicating the type of location of the outlet.
 * Outlet_Type: Categorical variable indicating whether the outlet is a grocery store or a supermarket.
   
-## Problem Statement
-The goal of this project is to predict the sales of products in the Big Mart stores. It is a regression problem, and we will use machine learning models to predict the sales based on the provided features.
-
 ## Analysis Steps
 ### Data Exploration:
 * Explored the distribution of features.
@@ -46,9 +49,6 @@ The final model achieved a Mean Squared Error of 1005.5370873838602 on the testi
 ## Dependencies
 Python 
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter.
-
-## Source Link:
-[Link](https://www.kaggle.com/datasets/akashdeepkuila/big-mart-sales)
 
 Feel free to explore and contribute to this project! If you have any questions or suggestions, please contact me at shravanirajanelli@gmail.com.
 
